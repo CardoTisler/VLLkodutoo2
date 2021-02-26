@@ -1,0 +1,66 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+#jumbo {
+    background-image: url("https://images.unsplash.com/photo-1420802498636-9d647b43d2eb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;
+}
+#jumbo h1, p{
+    color: whitesmoke;
+    text-shadow: 1px 1px #444444;
+}
+.jumbotron p{
+    font-size: large;
+}
+footer{
+    font-size: Large;
+}
+footer p{
+    color: black;
+}
+#socialIkoonidFooter i{
+    font-size: 4rem;
+}
+
+#meistJumbo{
+    background-image: url("https://images.unsplash.com/photo-1486210284477-e900ad8a6820?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80");
+    background-size: cover;
+}
+.card p{
+    color: black;
+}
